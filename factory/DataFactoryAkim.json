@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryAkim",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fef3b89e-4ded-41b5-85da-0e6270dd7095",
+		"tenantId": "5b7e0cef-b116-4a6e-9dd2-61a9677e92b7"
+	}
+}
